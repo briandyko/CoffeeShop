@@ -1,2 +1,42 @@
 ﻿body {
 }
+
+h1{
+    font-size:80px;
+    margin-left:150px;
+}
+
+h2{
+    margin-left:350px;
+}
+
+img#extResize{
+    height:600px;
+    width:800px;
+    margin-left:200px;
+    margin-right:200px;
+    
+}
+
+
+img#fancyCoffee{
+    height:100px;
+    width:80px;
+    margin-left:300px;
+}
+
+img#yumMocha{
+    height:100px;
+    width:80px;
+    margin-left:300px;
+}
+
+ul.addColor{
+    color:maroon;
+    font-family:Aharoni;
+    font-size:12px;
+}
+
+ul.testColor{
+    color:aqua;
+}
